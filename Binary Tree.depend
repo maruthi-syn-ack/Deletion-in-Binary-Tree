@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647356368 source:c:\users\marut\documents\github\binary tree\main.c
+	<stdio.h>
+	<stdlib.h>
+
